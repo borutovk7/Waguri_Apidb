@@ -1,8 +1,3 @@
-node_modules/
-tmp/
-.env
-.DS_Store
+# CDN de assets estáticos — sem código
 *.log
-.vscode/
-.idea/
-*.zip
+.DS_Store
